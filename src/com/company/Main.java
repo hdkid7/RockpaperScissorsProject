@@ -20,8 +20,8 @@ public class Main {
 
 
     public static void main(String[] args) {
-    Display display = new Display("Rock Paper Scissors! ",500,500);
-
+    Display display = new Display("Rock Paper Scissors! ",500,300);
+    display.createJFrame();
     }
 
 // Code below is from old version
